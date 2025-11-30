@@ -1,6 +1,6 @@
 {
   "name": "alya-socket",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Custom Baileys WhatsApp API",
   "keywords": [
     "baileys",
@@ -12,7 +12,7 @@
     "automation",
     "multi-device"
   ],
-  "homepage": "https://github.com/Elpaiema/Alya-Socket#readme",
+  "homepage": "https://github.com/Elpapiema/Alya-Socket#readme",
   "repository": {
     "url": "git@github.com:Elpapiema/Alya-Socket.git"
   },
