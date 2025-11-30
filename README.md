@@ -6,3 +6,5 @@
 > Creditos de la version a @This-xyz 
 
 > Adaptado para AlyaBot por Emma Violets Version (@Elpapiema)
+
+base en la 6.8.5 de baileys
