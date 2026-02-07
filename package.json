@@ -10,10 +10,10 @@
   ],
   "homepage": "https://github.com/kakasi-pixle/shawarma-lib",
   "repository": {
-    "url": "git@github.com:Elpapiema/Alya-Socket.git"
+    "url": "git@github.com:kakasi-pixle/shawarma-lib.git"
   },
   "license": "MIT-License",
-  "author": "Emma",
+  "author": "shawarma",
   "main": "lib/index.js",
   "types": "lib/index.d.ts",
   "files": [
