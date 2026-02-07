@@ -1,5 +1,5 @@
 {
-  "name": "alya-socket",
+  "name": "shawarma-lib",
   "version": "1.2.0",
   "description": "Custom Baileys WhatsApp API",
   "keywords": [
@@ -8,7 +8,7 @@
     "whatsapp-web", "whatsapp-bot",
     "automation", "multi-device"
   ],
-  "homepage": "https://github.com/Elpapiema/Alya-Socket#readme",
+  "homepage": "https://github.com/kakasi-pixle/shawarma-lib",
   "repository": {
     "url": "git@github.com:Elpapiema/Alya-Socket.git"
   },
